@@ -16,7 +16,7 @@ I'm a mission driven software engineer who focuses on backend development profes
 
 ### [A super customizable universal tv remote for Home Assistant](https://github.com/Nerwyn/android-tv-card)
 
--   Many different smart TV platforms out of the box.
+-   Supports many different smart TV, media, and personal computer platforms out of the box.
 -   A variety of physical interactions such as taps, double taps, hold taps, multi-touch, swipes, touchpad swipes, and mousepad drags consistently across many different browsers. webviews, and devices.
 -   Sending text to most supported smart TV platforms.
 

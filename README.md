@@ -49,9 +49,9 @@ ESP32 based electronics prototyped on a breadboard, soldered to a protoboard, an
 (I should get back around to updating this repository with more devices)
 
 -   Smart curtains which are completely locally controlled and automated to open in the morning and close at night.
--   Local garage door control because paying a subscription to control my garage door through the cloud is asinine.
--   Lights that are tied to motion sensors to light up my stairs and pantry.
--   TV ambilights that turn what I'm watching into a lightshow.
+-   Lights that are tied to separate existing security motion sensors to light up my stairs and pantry.
+-   Local garage door control because paying a subscription to control my garage door through the cloud is asinine, using rat-ratgdo.
+-   TV ambilights that turn what I'm watching into a lightshow, using WLED and HyperHDR.
 
 # 💻 Tech Stack:
 

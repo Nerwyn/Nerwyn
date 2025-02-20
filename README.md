@@ -4,6 +4,8 @@
 
 I'm a mission driven software engineer who focuses on backend development professionally, but also does frontend web component custom element development, custom smart home devices, and general DIY for fun.
 
+I have two degrees in Biomedical Engineering, and want to use my healthcare technology background to improve healthcare via software solutions.
+
 ## Professionally, I've...
 
 -   Been programing in Python for over a decade and TypeScript for four years.
@@ -24,7 +26,7 @@ I'm a mission driven software engineer who focuses on backend development profes
 
 -   Buttons with tap, double tap, and hold tap.
 -   Sliders.
--   Spinboxes with two buttons, but only calls when it reaches a stable value.
+-   Spinboxes with two buttons, but only fires an action when it reaches a stable value.
 -   Dropdowns.
 
 ### [A Material Design 3 overhaul of Home Assistant](https://github.com/Nerwyn/material-rounded-theme)

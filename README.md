@@ -4,7 +4,7 @@
 
 I'm a mission driven software engineer who focuses on backend development professionally, but also does frontend web component custom element development, custom smart home devices, and general DIY for fun.
 
-I have two degrees in Biomedical Engineering, and want to use my healthcare technology background to improve healthcare via software solutions.
+I have two degrees in Biomedical Engineering, and want to use my healthcare technology background to improve healthcare via software solutions. I'm also open to other good missions like mental health, green technology, and (as you can see from my open source projects) smart home devices and automation.
 
 ## Professionally, I've...
 

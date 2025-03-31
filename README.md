@@ -2,9 +2,9 @@
 
 ## **Open to work!**
 
-I'm a mission driven software engineer who focuses on backend development professionally, but also does frontend web component custom element development, custom smart home devices, and general DIY for fun.
+I'm a jack of all trades engineer who focuses on backend software development professionally, but also does frontend web component custom element development, custom smart home devices, and general DIY for fun.
 
-I have two degrees in Biomedical Engineering, and want to use my healthcare technology background to improve healthcare via software solutions. I'm also open to other good missions like mental health, green technology, and (as you can see from my open source projects) smart home devices and automation.
+I have two degrees in Biomedical Engineering, and want to use my diverse engineering background to improve healthcare via software solutions. I'm especially open to good missions such as healthcare, mental health, green technology, and (as you can see from my open source projects) smart home devices and automation.
 
 ## Professionally, I've...
 
@@ -28,6 +28,7 @@ I have two degrees in Biomedical Engineering, and want to use my healthcare tech
 -   Sliders.
 -   Spinboxes with two buttons, but only fires an action when it reaches a stable value.
 -   Dropdowns.
+-   Toggles.
 
 ### [A Material Design 3 overhaul of Home Assistant](https://github.com/Nerwyn/material-rounded-theme)
 

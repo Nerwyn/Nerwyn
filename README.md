@@ -4,7 +4,7 @@
 
 I'm a jack of all trades engineer who focuses on backend software development professionally, but also does frontend web component custom element development, custom smart home devices, and general DIY for fun.
 
-I have two degrees in Biomedical Engineering, and want to use my diverse engineering background to improve healthcare via software solutions. I'm especially open to good missions such as healthcare, mental health, green technology, and (as you can see from my open source projects) smart home devices and automation.
+I have two degrees in Biomedical Engineering, and want to use my diverse engineering background to work on a good mission which improves the lives of it's userbase. I'm especially open to good missions such as healthcare, mental health, green technology, and (as you can see from my open source projects) smart home devices and automation.
 
 ## Professionally, I've...
 

@@ -30,7 +30,7 @@ I have two degrees in Biomedical Engineering, and want to use my diverse enginee
 -   Dropdowns.
 -   Toggles.
 
-### [A Material Design 3 overhaul of Home Assistant](https://github.com/Nerwyn/material-rounded-theme)
+### A Material Design 3 overhaul of Home Assistant
 
 -   [A theme](https://github.com/Nerwyn/material-you-theme) which replaces all CSS custom properties to use [Material Design 3 tokens](https://m3.material.io/foundations/design-tokens/overview).
 -   [A companion JavaScript module](https://github.com/Nerwyn/ha-material-you-utilities) which generates and applies Material You color palettes to the Home Assistant frontend using user inputs, and "monkey patches" the lifecycle methods of custom elements to inject CSS styles which redesign them to follow the [Material Design 3 specification](https://m3.material.io/).

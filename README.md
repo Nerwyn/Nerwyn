@@ -32,8 +32,8 @@ I have two degrees in Biomedical Engineering, and want to use my diverse enginee
 
 ### [A Material Design 3 overhaul of Home Assistant](https://github.com/Nerwyn/material-rounded-theme)
 
--   A theme which not only replaces CSS variables but uses many CSS tricks and hacks to modify elements to follow the Material Design 3 specification.
--   A companion JavaScript module which generates and applies Material You color palettes to users Home Assistant frontends using base colors they provide.
+-   [A theme](https://github.com/Nerwyn/material-you-theme) which replaces all CSS custom properties to use [Material Design 3 tokens](https://m3.material.io/foundations/design-tokens/overview).
+-   [A companion JavaScript module](https://github.com/Nerwyn/ha-material-you-utilities) which generates and applies Material You color palettes to the Home Assistant frontend using user inputs, and "monkey patches" the lifecycle methods of custom elements to inject CSS styles which redesign them to follow the [Material Design 3 specification](https://m3.material.io/).
 
 ### [A reimplementation of Pythonic syntax datetimes using TypeScript](https://github.com/Nerwyn/ts-py-datetime)
 

@@ -1,10 +1,8 @@
 # 👋🏽 About Me:
 
-## **Open to work!**
-
 I'm a jack of all trades engineer who focuses on backend software development professionally, but also does frontend web component custom element development, custom smart home devices, and general DIY for fun.
 
-I have two degrees in Biomedical Engineering, and want to use my diverse engineering background to work on a good mission which improves the lives of it's userbase. I'm especially open to good missions such as healthcare, mental health, green technology, and (as you can see from my open source projects) smart home devices and automation.
+I have two degrees in Biomedical Engineering, and strive to use my diverse engineering background to work on good missions which improve the lives of their userbases. I'm especially interested in healthcare, mental health, green technology, and (as you can see from my open source projects) smart home devices and automation.
 
 ## Professionally, I've...
 
@@ -12,6 +10,7 @@ I have two degrees in Biomedical Engineering, and want to use my diverse enginee
 -   Developed APIs with Python using Flask (and touched a bit on FastAPI, Django, and TypeScript Express.js).
 -   Created microservices using Python and TypeScript Node.js that ran on AWS Lambdas and EC2 instances.
 -   Managed data ingestion ETL and ELT pipelines, optimizing them for a variety of use cases such as healthcare insurance claims, patient data analysis, and product database usage.
+-   Curated and developed tooling for managing DICOM medical image data, which is an extension of my later undergraduate and graduate focus on medical imaging acquisition and software processing.
 -   Am a troubleshooting and bug hunting champion, I can't rest until I understand why something isn't working correctly.
 
 ## My open source side projects include...
@@ -24,7 +23,7 @@ I have two degrees in Biomedical Engineering, and want to use my diverse enginee
 
 ### [A custom widgets module for Home Assistant](https://github.com/Nerwyn/service-call-tile-feature)
 
--   Buttons with tap, double tap, and hold tap.
+-   Buttons with many different interactions.
 -   Sliders.
 -   Spinboxes with two buttons, but only fires an action when it reaches a stable value.
 -   Dropdowns.
@@ -32,16 +31,16 @@ I have two degrees in Biomedical Engineering, and want to use my diverse enginee
 
 ### A Material Design 3 overhaul of Home Assistant
 
--   [A theme](https://github.com/Nerwyn/material-you-theme) which replaces all CSS custom properties to use [Material Design 3 tokens](https://m3.material.io/foundations/design-tokens/overview).
+-   [A theme](https://github.com/Nerwyn/material-you-theme) which modifies all CSS custom properties to use [Material Design 3 tokens](https://m3.material.io/foundations/design-tokens/overview).
 -   [A companion JavaScript module](https://github.com/Nerwyn/ha-material-you-utilities) which generates and applies Material You color palettes to the Home Assistant frontend using user inputs, and "monkey patches" the lifecycle methods of custom elements to inject CSS styles which redesign them to follow the [Material Design 3 specification](https://m3.material.io/).
+
+### [A nunjucks extensions library](https://github.com/Nerwyn/ha-nunjucks/tree/main)
+
+Recreates the Home Assistant backend templating system in the frontend with an easier to use syntax and better variable support.
 
 ### [A reimplementation of Pythonic syntax datetimes using TypeScript](https://github.com/Nerwyn/ts-py-datetime)
 
 For niche use cases (please don't try to replace moment with this 😅), like my above projects.
-
-### [A nunjucks extensions library](https://github.com/Nerwyn/ha-nunjucks/tree/main)
-
-Recreates Home Assistant backend templating in the frontend.
 
 ### [DIY smart devices](https://github.com/Nerwyn/DIY-Project-Logs)
 

@@ -19,7 +19,7 @@ I have two degrees in Biomedical Engineering, and strive to use my diverse engin
 
 -   Supports many different smart TV, media, and personal computer platforms out of the box.
 -   A variety of physical interactions such as taps, double taps, hold taps, multi-touch, swipes, touchpad swipes, and mousepad drags consistently across many different browsers. webviews, and devices.
--   Sending text to most supported smart TV platforms.
+-   Keyboard input for most supported platforms.
 
 ### [A custom widgets module for Home Assistant](https://github.com/Nerwyn/service-call-tile-feature)
 

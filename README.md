@@ -24,9 +24,10 @@ I have two degrees in Biomedical Engineering, and strive to use my diverse engin
 ### [A custom widgets module for Home Assistant](https://github.com/Nerwyn/service-call-tile-feature)
 
 -   Buttons with many different interactions.
+-   Dropdowns.
+-   Input boxes.
 -   Sliders.
 -   Spinboxes with two buttons, but only fires an action when it reaches a stable value.
--   Dropdowns.
 -   Toggles.
 
 ### A Material Design 3 overhaul of Home Assistant

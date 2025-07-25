@@ -1,12 +1,12 @@
 # 👋🏽 About Me:
 
-I'm a jack of all trades engineer who focuses on backend software development professionally, but also does frontend web component custom element development, custom smart home devices, and general DIY for fun.
+I'm a jack of all trades full stack software engineer who does frontend web component custom element development, custom smart home devices, and general DIY for fun.
 
 I have two degrees in Biomedical Engineering, and strive to use my diverse engineering background to work on good missions which improve the lives of their userbases. I'm especially interested in healthcare, mental health, green technology, and (as you can see from my open source projects) smart home devices and automation.
 
 ## Professionally, I've...
 
--   Been programing in Python for over a decade and TypeScript for four years.
+-   Been programing in Python for over a decade and TypeScript for five years.
 -   Developed APIs with Python using Flask (and touched a bit on FastAPI, Django, and TypeScript Express.js).
 -   Created microservices using Python and TypeScript Node.js that ran on AWS Lambdas and EC2 instances.
 -   Managed data ingestion ETL and ELT pipelines, optimizing them for a variety of use cases such as healthcare insurance claims, patient data analysis, and product database usage.

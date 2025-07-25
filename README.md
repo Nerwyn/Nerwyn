@@ -18,7 +18,8 @@ I have two degrees in Biomedical Engineering, and strive to use my diverse engin
 ### [A super customizable universal tv remote for Home Assistant](https://github.com/Nerwyn/android-tv-card)
 
 -   Supports many different smart TV, media, and personal computer platforms out of the box.
--   A variety of physical interactions such as taps, double taps, hold taps, multi-touch, swipes, touchpad swipes, and mousepad drags consistently across many different browsers. webviews, and devices.
+-   A variety of physical interactions such as taps, double taps, hold taps, multi-touch, swipes, touchpad swipes, and mousepad drags consistently across many different browsers. webviews, and devices.'
+-   A user configurable layout using any number of buttons, sliders, and touchpads.
 -   Keyboard input for most supported platforms.
 
 ### [A custom widgets module for Home Assistant](https://github.com/Nerwyn/service-call-tile-feature)
@@ -28,12 +29,16 @@ I have two degrees in Biomedical Engineering, and strive to use my diverse engin
 -   Input boxes.
 -   Sliders.
 -   Spinboxes with two buttons, but only fires an action when it reaches a stable value.
--   Toggles.
+-   Toggles that can be either switches or checkboxes.
 
 ### A Material Design 3 overhaul of Home Assistant
 
--   [A theme](https://github.com/Nerwyn/material-you-theme) which modifies all CSS custom properties to use [Material Design 3 tokens](https://m3.material.io/foundations/design-tokens/overview).
--   [A companion JavaScript module](https://github.com/Nerwyn/ha-material-you-utilities) which generates and applies Material You color palettes to the Home Assistant frontend using user inputs, and "monkey patches" the lifecycle methods of custom elements to inject CSS styles which redesign them to follow the [Material Design 3 specification](https://m3.material.io/).
+-   [A theme](https://github.com/Nerwyn/material-you-theme) which:
+    -   Modifies all CSS custom properties to use [Material Design 3 tokens](https://m3.material.io/foundations/design-tokens/overview).
+    -   Introduces many shape, animation and font tokens from the Material Design 3 specification.
+-   [A companion JavaScript module](https://github.com/Nerwyn/ha-material-you-utilities) which:
+    -   Generates and applies Material You color palettes to the Home Assistant frontend based on user inputs using [Material Color Utilities](https://github.com/material-foundation/material-color-utilities).
+    -   Monkey patches the lifecycle methods of custom elements to inject CSS styles which redesign them to follow the [Material Design 3 specification](https://m3.material.io/).
 
 ### [A nunjucks extensions library](https://github.com/Nerwyn/ha-nunjucks/tree/main)
 

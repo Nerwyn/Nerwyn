@@ -9,6 +9,7 @@ I have two degrees in Biomedical Engineering, and strive to use my diverse engin
 -   Been programing in Python for over a decade and TypeScript for five years.
 -   Developed APIs with Python using Flask (and touched a bit on FastAPI, Django, and TypeScript Express.js).
 -   Created microservices using Python and TypeScript Node.js that ran on AWS Lambdas and EC2 instances.
+-   Worked on full stack TypeScript Next.js React websites.
 -   Managed data ingestion ETL and ELT pipelines, optimizing them for a variety of use cases such as healthcare insurance claims, patient data analysis, and product database usage.
 -   Curated and developed tooling for managing DICOM medical image data, which is an extension of my later undergraduate and graduate focus on medical imaging acquisition and software processing.
 -   Am a troubleshooting and bug hunting champion, I can't rest until I understand why something isn't working correctly.
@@ -27,6 +28,7 @@ I have two degrees in Biomedical Engineering, and strive to use my diverse engin
 -   Buttons with many different interactions.
 -   Dropdowns.
 -   Input boxes.
+-   Selectors (button groups with one active button).
 -   Sliders.
 -   Spinboxes with two buttons, but only fires an action when it reaches a stable value.
 -   Toggles that can be either switches or checkboxes.

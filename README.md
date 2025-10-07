@@ -15,14 +15,14 @@ I have two degrees in Biomedical Engineering, and strive to use my diverse engin
 
 ## My open source side projects include...
 
-### [A super customizable universal tv remote for Home Assistant](https://github.com/Nerwyn/android-tv-card)
+### [A super customizable universal tv remote for Home Assistant](https://github.com/Nerwyn/universal-remote-card)
 
 -   Supports many different smart TV, media, and personal computer platforms out of the box.
 -   A variety of physical interactions such as taps, double taps, hold taps, multi-touch, swipes, touchpad swipes, and mousepad drags consistently across many different browsers. webviews, and devices.'
 -   A user configurable layout using any number of buttons, sliders, and touchpads.
 -   Keyboard input for most supported platforms.
 
-### [A custom widgets module for Home Assistant](https://github.com/Nerwyn/service-call-tile-feature)
+### [A web components module for Home Assistant](https://github.com/Nerwyn/custom-card-features)
 
 -   Buttons with many different interactions.
 -   Dropdowns.
@@ -36,7 +36,7 @@ I have two degrees in Biomedical Engineering, and strive to use my diverse engin
 -   [A theme](https://github.com/Nerwyn/material-you-theme) which:
     -   Modifies all CSS custom properties to use [Material Design 3 tokens](https://m3.material.io/foundations/design-tokens/overview).
     -   Introduces many shape, animation and font tokens from the Material Design 3 specification.
--   [A companion JavaScript module](https://github.com/Nerwyn/ha-material-you-utilities) which:
+-   [A companion JavaScript module](https://github.com/Nerwyn/material-you-utilities) which:
     -   Generates and applies Material You color palettes to the Home Assistant frontend based on user inputs using [Material Color Utilities](https://github.com/material-foundation/material-color-utilities).
     -   Monkey patches the lifecycle methods of custom elements to inject CSS styles which redesign them to follow the [Material Design 3 specification](https://m3.material.io/).
 

@@ -19,11 +19,11 @@ I have two degrees in Biomedical Engineering, and strive to use my diverse engin
 ### [A super customizable universal tv remote for Home Assistant](https://github.com/Nerwyn/universal-remote-card)
 
 -   Supports many different smart TV, media, and personal computer platforms out of the box.
--   A variety of physical interactions such as taps, double taps, hold taps, multi-touch, swipes, touchpad swipes, and mousepad drags consistently across many different browsers. webviews, and devices.'
+-   A variety of physical interactions such as taps, double taps, hold taps, multi-touch, swipes, touchpad swipes, mousepad drags, and click wheel consistently across many different browsers. webviews, and devices.
 -   A user configurable layout using any number of buttons, sliders, and touchpads.
 -   Keyboard input for most supported platforms.
 
-### [A web components module for Home Assistant](https://github.com/Nerwyn/custom-card-features)
+### [A web components library for Home Assistant](https://github.com/Nerwyn/custom-card-features)
 
 -   Buttons with many different interactions.
 -   Dropdowns.
@@ -32,6 +32,8 @@ I have two degrees in Biomedical Engineering, and strive to use my diverse engin
 -   Sliders.
 -   Spinboxes with two buttons, but only fires an action when it reaches a stable value.
 -   Toggles that can be either switches or checkboxes.
+
+Most components have Material Design 3 Expressive variants.
 
 ### A Material Design 3 overhaul of Home Assistant
 

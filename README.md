@@ -1,6 +1,6 @@
 # Open to work! Again!
 
-I have once again been laid off and am open to work. Preferably at a financially stable company.
+I have once again been laid off and am open to work. Preferably at a financially stable company with a good mission, especially if it is in the health tech space.
 
 # 👋🏽 About Me:
 

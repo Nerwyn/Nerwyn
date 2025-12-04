@@ -11,11 +11,12 @@ I have two degrees in Biomedical Engineering, and strive to use my diverse engin
 ## Professionally, I've...
 
 -   Been programing in Python for over a decade and TypeScript for five years.
--   Developed APIs with Python using Flask (and touched a bit on FastAPI, Django, and TypeScript Express.js).
+-   Developed APIs with Python using Flask and TypeScript Express.js and Next.js (and touched a bit on Python FastAPI, Django).
 -   Created microservices using Python and TypeScript Node.js that ran on AWS Lambdas and EC2 instances.
 -   Worked on full stack TypeScript Next.js React websites.
 -   Managed data ingestion ETL and ELT pipelines, optimizing them for a variety of use cases such as healthcare insurance claims, patient data analysis, and product database usage.
 -   Curated and developed tooling for managing DICOM medical image data, which is an extension of my later undergraduate and graduate focus on medical imaging acquisition and software processing.
+-   Developed and maintained healthcare data systems using HL7v2, HL7v3/FHIR, and EDI X12.
 -   Am a troubleshooting and bug hunting champion, I can't rest until I understand why something isn't working correctly.
 
 ## My open source side projects include...

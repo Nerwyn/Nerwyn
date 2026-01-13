@@ -49,7 +49,7 @@ Most components have Material Design 3 Expressive variants.
     -   Generates and applies Material You color palettes to the Home Assistant frontend based on user inputs using [Material Color Utilities](https://github.com/material-foundation/material-color-utilities).
     -   Monkey patches the lifecycle methods of custom elements to inject CSS styles which redesign them to follow the [Material Design 3 specification](https://m3.material.io/).
 
-### [A nunjucks extensions library](https://github.com/Nerwyn/ha-nunjucks/tree/main)
+### [A nunjucks extensions library](https://github.com/Nerwyn/ha-nunjucks)
 
 Recreates the Home Assistant backend templating system in the frontend with an easier to use syntax and better variable support.
 

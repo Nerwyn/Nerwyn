@@ -1,7 +1,3 @@
-# Open to work! Again!
-
-I have once again been laid off and am open to work. Preferably at a financially stable company with a good mission, especially if it is in the health tech space.
-
 # 👋🏽 About Me:
 
 I'm a jack of all trades full stack software engineer who does frontend web component custom element development, custom smart home devices, and general DIY for fun.
